@@ -13,6 +13,7 @@
 ### [0330]
 - 완료된 작업
     - 레이아웃 : 사용자 정보 입력창, 일지작성 운동방법 소개창, 운동방법 소개 (상체,하체)분류칸 , 일지작성(캘린더)칸
+![img1](https://user-images.githubusercontent.com/79896103/161281581-437f8dc0-b36c-4b05-8d7b-f314184dd2f2.PNG)
 
 - 진행중인 작업
     - 기능구현 : 버튼별 intent 작업, calenderview 
