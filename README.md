@@ -19,6 +19,9 @@
     - 동영상 
 ![1](https://user-images.githubusercontent.com/79896103/161432625-dff4b0e0-efb9-49b1-aa46-2de3010e1c3a.PNG)
 
+- 진행중인 작업
+    - 운동 소개란 ListView ,  ListView 이벤트처리
+
 
 
 
