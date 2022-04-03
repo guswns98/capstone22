@@ -14,9 +14,10 @@
 ```
 ### [0403]
 - 완료 작업 
-    - 버튼별 화면 연결 intent처리 
     - 사용자 입력값 유효성 검사 
-
+    - 버튼별 화면 연결 intent처리 
+    - 동영상 
+![1](https://user-images.githubusercontent.com/79896103/161432625-dff4b0e0-efb9-49b1-aa46-2de3010e1c3a.PNG)
 
 
 
