@@ -16,6 +16,7 @@
 ### [0406]
 - 변경 작업 
     - 기존 액티비티 별 버튼클릭을 하단 fragment 처리로 사용성 개편
+    ![2](https://user-images.githubusercontent.com/79896103/162466433-7ede4c65-8ed3-4965-8cc8-c7a50ed8bede.PNG)
     - 사용자 정보입력창 디자인 변화 
 
 - 진행중 작업
