@@ -15,6 +15,9 @@
 ### [0413]
 - 완료 작업
     - bmi 지수 액티비티 디자인 편집 
+    <img width="405" alt="캡처" src="https://user-images.githubusercontent.com/79896103/163123172-c922b4aa-e426-43c2-9cc0-c2550b3c2f48.PNG">
+
+    
 - 진행 작업
     - 타이머 기능 구현
     
