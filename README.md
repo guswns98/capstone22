@@ -12,6 +12,12 @@
 - 작품 소개 : 운동일지 및 운동소개 앱
 - 개발환경 : java , Android Studio , firebase 
 ```
+### [0504]
+- 완료 작업
+    - firebase 앱 연동 
+    ![image](https://user-images.githubusercontent.com/79896103/166923300-094167b5-2bd8-4edc-aa62-e0563b96e5d2.png)
+    - 운동설명 상세페이지 운동 동영상 운동설명글 
+
 ### [0427]
 - 완료 작업 
     - 타이머 기능 구현 
