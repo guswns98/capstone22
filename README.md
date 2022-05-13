@@ -15,6 +15,7 @@
 ### [0511]
 - 완료 작업 
     - Youtube API를 이용한 Youtube 동영상 재생 가능
+    ![image](https://user-images.githubusercontent.com/79896103/168299542-ec4c8e13-db4e-4962-b7cd-e6a6f0652f70.png)
     - DatePicker를 활용한 운동 일지 작성, 저장 가능
 - 진행 작업
     - 앱 구동시 애니메이션 효과처리 
