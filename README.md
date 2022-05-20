@@ -12,6 +12,17 @@
 - 작품 소개 : 운동일지 및 운동소개 앱
 - 개발환경 : java , Android Studio , firebase 
 ```
+### [0516]
+- 완료 작업   
+    - 엑티비티 전반적인 디자인 수정 
+    - bmi 사용자 상태 결과창 수정 
+    ![1234](https://user-images.githubusercontent.com/79896103/169541959-b77bdb3a-440c-4743-b19d-b8ad74589750.PNG)
+
+- 진행 작업
+    - 유산소 운동항목 추가
+
+
+
 ### [0511]
 - 완료 작업 
     - Youtube API를 이용한 Youtube 동영상 재생 가능
@@ -24,9 +35,6 @@
     - 앱 구동시 애니메이션 효과처리 
     - Realtime Database를 이용한 초기 사용자 입력값 저장
     
-
-
-
 
 
 ### [0504]
