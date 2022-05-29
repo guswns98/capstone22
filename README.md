@@ -18,7 +18,7 @@
     - 유산소 항목 운동 추가
     - 버튼 이미지 변경
     - 포스터 제작
-  ![image](https://user-images.githubusercontent.com/79896103/170848209-679522d6-7d33-4bb1-8738-d41ab51a8239.png)
+    - ![image](https://user-images.githubusercontent.com/79896103/170848209-679522d6-7d33-4bb1-8738-d41ab51a8239.png)
 
 
 
