@@ -12,7 +12,17 @@
 - 작품 소개 : 운동일지 및 운동소개 앱
 - 개발환경 : java , Android Studio , firebase 
 ```
-### [0516]
+### [0525]
+- 완료 작업
+    - 사용자 입력값 저장할 User class, DAO class 작성
+    - 유산소 항목 운동 추가
+    - 버튼 이미지 변경
+    - 포스터 제작
+  ![image](https://user-images.githubusercontent.com/79896103/170848209-679522d6-7d33-4bb1-8738-d41ab51a8239.png)
+
+
+
+### [0518]
 - 완료 작업   
     - 엑티비티 전반적인 디자인 수정 
     - bmi 사용자 상태 결과창 수정 
