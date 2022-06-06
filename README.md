@@ -12,6 +12,16 @@
 - 작품 소개 : 운동일지 및 운동소개 앱
 - 개발환경 : java , Android Studio , firebase 
 ```
+### [0606]
+- 변경 작업
+    - mainactivity, subactivity 배경 변경
+    ![image](https://user-images.githubusercontent.com/79896103/172119568-6578eb10-c1dc-4c9b-823f-41ad4efb4c28.png)
+    - database User INFO 값 확인
+    ![image](https://user-images.githubusercontent.com/79896103/172119986-09c53f5a-4b1a-4630-9d00-c531031009cd.png)
+
+
+
+
 ### [0525]
 - 완료 작업
     - 사용자 입력값 저장할 User class, DAO class 작성
